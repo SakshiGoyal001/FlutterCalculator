@@ -1,7 +1,9 @@
 # Mobile App Development
 
 App name: Simple calculator
+
 Function: Allow the user to perform arithmetic operations like addition, subtraction, multiplication and division on rational numbers.
+
 
 
 
